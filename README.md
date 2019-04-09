@@ -1,4 +1,4 @@
-# Resume-3-31-2019
+# Resume
 
 ### This repository holds my Resume to be given to employers
 
