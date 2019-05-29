@@ -4,12 +4,6 @@
 
 ---
 
-# Resume
-
-### This repository holds my Resume to be given to employers
-
----
-
 # Harrison Welch
 
 * (405) 570 - 0968
