@@ -4,6 +4,12 @@
 
 ---
 
+# Resume
+
+### This repository holds my Resume to be given to employers
+
+---
+
 # Harrison Welch
 
 * (405) 570 - 0968
@@ -77,6 +83,8 @@ An intelligent, compassionate, persistent, and hardworking software engineer sol
 * President (Fall 2017 – Spring 2018)
 * Treasurer (Fall 2016 – Sprint 2017)
 * Volunteered numerous hours fixing up homes for lower income families
+
+### Outstanding Student in Computer Science; April 2019
 
 ### Dean’s List; August 2015 – May 2018
 
