@@ -1,5 +1,5 @@
 # remove temp word files
-~$*
+*~$
 
 # remove the Mac directory file
 .DS_Store
