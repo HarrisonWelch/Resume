@@ -5,7 +5,7 @@
 
 Hold my resume for easy viewing.
 
-[Quick Access Here](https://github.com/HarrisonWelch/Resume/blob/master/pdf/Resume-03-31-2021.pdf)
+[Quick Access Here](https://github.com/HarrisonWelch/Resume/blob/master/pdf/Harrison_Welch_Resume_Sept_1_2023.pdf)
 
 ## More Info
 * Linked-In: https://www.linkedin.com/in/harrison-welch/
